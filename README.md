@@ -29,3 +29,7 @@
 ## Текущий статус
 
 Создана базовая структура проекта
+
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://musorka1pomoika.github.io/kr1_html_css_shop/
